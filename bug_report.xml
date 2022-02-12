@@ -1,10 +1,10 @@
 <?xml version ="1.0"?>
    <bug_report>
       <Summary>error 500</Summary>
-	    <Project>Yandex.ru</Project>
-	    <Component>Email registration page</Component>
-	    <Version>22.1.4.627 beta</Version>
-	    <Severity>Blocker</Severity>
-	    <Priority>High</Priority>
+      <Project>Yandex.ru</Project>
+      <Component>Email registration page</Component>
+      <Version>22.1.4.627 beta</Version>
+      <Severity>Blocker</Severity>
+      <Priority>High</Priority>
    </bug_report>
 

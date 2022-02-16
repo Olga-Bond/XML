@@ -6,5 +6,9 @@
       <Version>22.1.4.627 beta</Version>
       <Severity>Blocker</Severity>
       <Priority>High</Priority>
+      <Steps_to_Reproduce>Steps</Steps_to_Reproduce>
+      <Actual_Result>Page lock</Actual_Result>
+      <Expected_Result>Opening a page</Expected_Result>
+      <Additional_Information>Other</Additional_Information>
    </bug_report>
 
